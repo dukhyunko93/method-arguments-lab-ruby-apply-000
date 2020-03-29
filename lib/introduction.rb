@@ -7,6 +7,4 @@ def introduction_with_language(name,language)
 end
 
 
-introduction(Ducky)
-
-introduction_with_language(Ducky,Korean)
+introduction(name)
